@@ -1,4 +1,4 @@
-package wrapper;
+package discountLibrary;
 
 import edu.wpi.first.wpilibj.Joystick;
 

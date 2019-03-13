@@ -1,7 +1,7 @@
-package wrapper;
+package discountLibrary;
 
-import utils.Mathd;
-import interfaces.MotorGroup;
+import discountLibrary.utils.Mathd;
+import discountLibrary.interfaces.MotorGroup;
 
 public class Drive {
 

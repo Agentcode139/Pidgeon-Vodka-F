@@ -1,6 +1,6 @@
-package wrapper;
+package discountLibrary;
 
-import interfaces.MotorGroup;
+import discountLibrary.interfaces.MotorGroup;
 
 public class AdaptableDrive {
 

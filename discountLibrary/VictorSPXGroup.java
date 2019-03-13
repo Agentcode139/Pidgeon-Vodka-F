@@ -1,9 +1,9 @@
-package wrapper;
+package discountLibrary;
 
 import java.util.*;
 import com.ctre.phoenix.motorcontrol.ControlMode;
 import com.ctre.phoenix.motorcontrol.can.VictorSPX;
-import interfaces.MotorGroup;
+import discountLibrary.interfaces.MotorGroup;
 
 public class VictorSPXGroup implements MotorGroup{
 
