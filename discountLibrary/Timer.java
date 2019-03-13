@@ -1,4 +1,4 @@
-package wrapper;
+package discountLibrary;
 
 /**
  * @author Owen maybe

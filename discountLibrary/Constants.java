@@ -1,4 +1,5 @@
-package wrapper;
+package discountLibrary;
+
 public class Constants{
 
 public static final int[]

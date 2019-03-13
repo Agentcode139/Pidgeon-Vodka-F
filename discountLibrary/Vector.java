@@ -1,4 +1,4 @@
-package wrapper;
+package discountLibrary;
 
 public class Vector {
 

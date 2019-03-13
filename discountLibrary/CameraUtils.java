@@ -1,4 +1,4 @@
-package wrapper;
+package discountLibrary;
 
 import org.opencv.core.Mat;
 import org.opencv.core.Core;

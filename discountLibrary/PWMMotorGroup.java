@@ -1,6 +1,6 @@
-package wrapper;
+package discountLibrary;
 
-import interfaces.MotorGroup;
+import discountLibrary.interfaces.MotorGroup;
 import edu.wpi.first.wpilibj.Victor;
 import java.util.*;
 
