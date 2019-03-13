@@ -1,9 +1,9 @@
-package wrapper;
+package discountLibrary;
 
 import java.util.*;
 import com.revrobotics.CANSparkMax;
 import com.revrobotics.CANSparkMaxLowLevel;
-import interfaces.MotorGroup;
+import discountLibrary.interfaces.MotorGroup;
 
 public class SparkMaxGroup implements MotorGroup {
 

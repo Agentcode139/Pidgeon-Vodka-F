@@ -1,7 +1,7 @@
-package wrapper;
+package discountLibrary;
 
 import edu.wpi.first.wpilibj.AnalogInput;
-import utils.MovingAverage;
+import discountLibrary.utils.MovingAverage;
 
 public class UltraSonic{
 
